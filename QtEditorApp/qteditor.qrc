@@ -1,0 +1,30 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/center.png</file>
+        <file>images/color.png</file>
+        <file>images/copy.png</file>
+        <file>images/cut.png</file>
+        <file>images/font.png</file>
+        <file>images/justify.png</file>
+        <file>images/left.png</file>
+        <file>images/new.png</file>
+        <file>images/open.png</file>
+        <file>images/paste.png</file>
+        <file>images/print.png</file>
+        <file>images/quit.png</file>
+        <file>images/redo.png</file>
+        <file>images/right.png</file>
+        <file>images/save.png</file>
+        <file>images/saveAs.png</file>
+        <file>images/undo.png</file>
+        <file>images/zoomIn.png</file>
+        <file>images/zoomOut.png</file>
+        <file>images/about.png</file>
+        <file>images/align.png</file>
+        <file>images/cascade.png</file>
+        <file>images/qt.png</file>
+        <file>images/tile.png</file>
+        <file>images/next.png</file>
+        <file>images/prev.png</file>
+    </qresource>
+</RCC>
