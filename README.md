@@ -1,2 +1,2 @@
-# QtProgramming
-Example for Qt Programming
+# Qt Programming
+Examples for Qt Programming
